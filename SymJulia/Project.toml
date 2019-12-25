@@ -1,0 +1,4 @@
+name = "SymJulia"
+uuid = "50f37194-26ad-11ea-01fe-895ad2734e23"
+authors = ["wirelessroom2 <jl_chartrand@hotmail.com>"]
+version = "0.1.0"
